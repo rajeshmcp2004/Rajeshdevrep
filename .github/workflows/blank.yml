@@ -22,7 +22,7 @@ jobs:
         run: echo Hello, world!
 
       - name: Create folder
-        run: mkdir -p my-folder1
+        run: mkdir -p my-folder2
 
       - name: Run a multi-line script
         run: |
